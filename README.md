@@ -21,7 +21,7 @@ A full-stack web application for automated brain tumor detection and classificat
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ [Features](#features)
+## ✨ Features
 
 - 🔐 **User Authentication** - Secure JWT-based authentication system
 - 📤 **Image Upload** - Support for JPEG, PNG, and DICOM medical imaging formats
