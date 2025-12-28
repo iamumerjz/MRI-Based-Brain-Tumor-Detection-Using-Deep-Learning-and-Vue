@@ -38,7 +38,7 @@ A full-stack web application for automated brain tumor detection and classificat
 - Meningioma
 - Pituitary Tumor
 - No Tumor (Healthy)
-
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### Frontend
