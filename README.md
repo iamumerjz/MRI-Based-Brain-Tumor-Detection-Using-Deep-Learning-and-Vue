@@ -108,7 +108,7 @@ mongod --version  # Should be 4.4+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iamumerjz/MRI-Based-Brain-Tumor-Detection-Using-Deep-Learning-and-Vue.git
+git clone https://github.com/iamumerjz/MRI-Based-Brain-Tumor-Detection-Using-Deep-Learning-and-Vite.git
 cd MRI-Based-Brain-Tumor-Detection-Using-Deep-Learning-and-Vue
 ```
 
