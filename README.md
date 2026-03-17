@@ -444,7 +444,9 @@ Gradient-weighted Class Activation Mapping (Grad-CAM) provides visual explanatio
 ## 🖼️ Screenshots
 
 ### Landing Page
-<img width="900" height="10000" alt="image" src="https://github.com/user-attachments/assets/945109dc-c546-4f2c-8dfa-55548c7d97cb" />
+<p align="center">
+  <img width="800" src="https://github.com/user-attachments/assets/945109dc-c546-4f2c-8dfa-55548c7d97cb" />
+</p>
 
 ### Dashboard
 <img width="900" height="1766" alt="image" src="https://github.com/user-attachments/assets/53e46ad5-ac77-4fd3-bb37-fcc471c28f71" />
