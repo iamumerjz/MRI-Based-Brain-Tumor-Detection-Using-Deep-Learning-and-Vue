@@ -449,10 +449,10 @@ Gradient-weighted Class Activation Mapping (Grad-CAM) provides visual explanatio
 </p>
 
 ### Dashboard
-<img width="900" height="1766" alt="image" src="https://github.com/user-attachments/assets/53e46ad5-ac77-4fd3-bb37-fcc471c28f71" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/53e46ad5-ac77-4fd3-bb37-fcc471c28f71" />
 
 ### Scan Results
-<img width="900" height="2508" alt="image" src="https://github.com/user-attachments/assets/79d029b8-edb3-48f2-997c-673ee78c4a59" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/79d029b8-edb3-48f2-997c-673ee78c4a59" />
 
 ### Grad-CAM Visualization
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/cf8d4217-e311-4bc9-a944-4718c27e1357" />
